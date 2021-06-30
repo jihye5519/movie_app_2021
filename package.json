@@ -17,7 +17,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    //##추가##
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
   },
@@ -38,7 +37,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    //##배포 시 계정 및 저장소 이름 추가##
     "homepage" : "https://jihye5519.github.io/movie_app_2021"
   }
 }
